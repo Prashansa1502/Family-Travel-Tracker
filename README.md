@@ -37,6 +37,14 @@ Replace the user, database, and password with your own PostgreSQL credentials.
 To start the application, run the following command:node index.js
 
 5. Access the Application
+
+
+
 Open your browser and go to http://localhost:3000.
 You can add new users, select a favorite color, and start adding visited countries.
+6. SCREENSHOTS OF THE PROJECT:
+![Screenshot 2025-04-27 202446](https://github.com/user-attachments/assets/ec0004ae-9909-434b-9fa6-d3ac2a065f43)
+![Screenshot 2025-04-27 202414](https://github.com/user-attachments/assets/07506372-d154-4a58-aa84-e7dcdae0ac45)
+
+
 
